@@ -1,0 +1,2 @@
+SimpleFOC驱动板
+基于SimpleFOC移植的一块32板子
