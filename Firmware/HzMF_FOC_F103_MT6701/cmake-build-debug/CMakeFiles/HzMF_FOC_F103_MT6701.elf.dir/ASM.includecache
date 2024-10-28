@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/chris/Desktop/GitHub/HzMF_Simple_FOC/Firmware/HzMF_FOC_F103_MT6701/Core/Startup/startup_stm32f103cbtx.s
+
