@@ -1,0 +1,3 @@
+C:/Users/chris/Desktop/GitHub/HzMF_Simple_FOC/Firmware/HzMF_FOC_F103_MT6701/cmake-build-debug/CMakeFiles/HzMF_FOC_F103_MT6701.elf.dir
+C:/Users/chris/Desktop/GitHub/HzMF_Simple_FOC/Firmware/HzMF_FOC_F103_MT6701/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/Desktop/GitHub/HzMF_Simple_FOC/Firmware/HzMF_FOC_F103_MT6701/cmake-build-debug/CMakeFiles/rebuild_cache.dir
