@@ -60,17 +60,12 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="HzMF_FOC_F103_MT6701.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HzMF_FOC_F103_MT6701" TARGET_NAME="HzMF_FOC_F103_MT6701.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HzMF_FOC_F103_MT6701" RUN_TARGET_NAME="HzMF_FOC_F103_MT6701.elf">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -85,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1730120746266</updated>
       <workItem from="1730120778545" duration="1016000" />
-      <workItem from="1730121928055" duration="644000" />
+      <workItem from="1730121928055" duration="1054000" />
+      <workItem from="1730296626951" duration="479000" />
     </task>
     <servers />
   </component>
